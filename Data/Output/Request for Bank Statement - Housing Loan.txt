@@ -1,0 +1,19 @@
+<html><head>
+<style type="text/css">
+        body {
+            font-family: Calibri;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        .mapping {
+            background-color: #D3D4D7;
+            color: black;
+            padding: 1px;
+        }
+    </style>
+<!-- Instruct the web browser control to use IE 6 to render the page. -->
+<meta content="IE=6" http-equiv="X-UA-Compatible" /></head>
+<body>Dear Customer,<br><br>Please find the attached bank statement for the period of account ID 736775 (Jan to Jul). We apologize for the delay.<br><br>Thanks &amp; Regards,<br>Branch Manger <br></body></html>

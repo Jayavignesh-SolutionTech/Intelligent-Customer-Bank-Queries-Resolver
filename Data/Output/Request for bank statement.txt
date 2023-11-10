@@ -1,0 +1,19 @@
+<html><head>
+<style type="text/css">
+        body {
+            font-family: Calibri;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        .mapping {
+            background-color: #D3D4D7;
+            color: black;
+            padding: 1px;
+        }
+    </style>
+<!-- Instruct the web browser control to use IE 6 to render the page. -->
+<meta content="IE=6" http-equiv="X-UA-Compatible" /></head>
+<body>Dear Customer,<br><br>We apologize for the delay in processing your request. We need your Account Number and Bank Statement Period to proceed further.<br><br>We thank you for your patience and understanding.<br><br>Thanks &amp; Regards,<br>Branch Manger <br></body></html>

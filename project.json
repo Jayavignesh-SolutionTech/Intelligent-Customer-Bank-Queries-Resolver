@@ -1,0 +1,70 @@
+{
+  "name": "Intelligent Customer Bank Queries Resolver",
+  "projectId": "5407768b-f074-4d14-9dc7-ad5c0a3a782c",
+  "description": "Intelligent Customer Bank Queries Resolver",
+  "main": "Main.xaml",
+  "dependencies": {
+    "InternalLabs.GPT.Activities": "1.0.0",
+    "UiPath.Excel.Activities": "2.20.2",
+    "UiPath.Form.Activities": "2.0.2",
+    "UiPath.FormActivityLibrary.Contracts": "2.0.5",
+    "UiPath.Mail.Activities": "1.20.0",
+    "UiPath.MLServices.Activities": "2.0.0",
+    "UiPath.PDF.Activities": "3.14.1",
+    "UiPath.Persistence.Activities": "1.4.6",
+    "UiPath.System.Activities": "23.4.4",
+    "UiPath.Testing.Activities": "23.4.1",
+    "UiPath.UIAutomation.Activities": "23.4.7",
+    "UiPath.WebAPI.Activities": "1.16.2"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.8.0.0",
+  "projectVersion": "1.0.8",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": true,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "d03a4749-0704-4f88-8996-4975d3ed943c",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

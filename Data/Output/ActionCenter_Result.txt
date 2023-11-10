@@ -1,0 +1,19 @@
+<html><head>
+<style type="text/css">
+        body {
+            font-family: Calibri;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        .mapping {
+            background-color: #D3D4D7;
+            color: black;
+            padding: 1px;
+        }
+    </style>
+<!-- Instruct the web browser control to use IE 6 to render the page. -->
+<meta content="IE=6" http-equiv="X-UA-Compatible" /></head>
+<body>Dear Customer,<br><br>Please find the attachment of Bank Statement Period of the account ID 99999. We apologize for the delay and thank you for your patience.<br><br>Thanks &amp; Regards,<br>Branch Manger <br></body></html>
